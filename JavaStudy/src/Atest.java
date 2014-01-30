@@ -152,6 +152,7 @@ public class Atest
 	
 	public static void  main(String[] args)
 	{
+		System.out.println("Test TortoiseGit.");
 		System.out.println("Hello, this is some test with GitHub.");
 		
 		findNumber();
